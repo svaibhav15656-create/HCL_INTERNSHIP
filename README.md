@@ -1,6 +1,5 @@
 # VAIBHAV — Autonomous AI Tutor & Personalized Learning Path Generator
 
-> **Judge pitch:** *"An AI co-pilot that reads your syllabus, extracts a hierarchical knowledge graph, tracks your mastery score per topic, and continuously guides your study flow with RAG-grounded study kits, adaptive struggle remediation, and deadline-aware exam roadmaps."*
 
 ---
 
